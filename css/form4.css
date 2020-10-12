@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-image {
+    background-image: url(../img/laptop-image.jpg);
+    width: 100%;
+    min-height: 635px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+
+
+}
+
+.opacity {
+    width: 100%;
+    min-height: 100%;
+    background-color: black;
+    opacity: 0.6;
+    position: absolute;
+}
+
+.form{
+    width: 80%;
+    height: 300px;
+    
+    
+}
+.bg-size{
+    min-height: 500px;
+    width: 100%;
+    
+}
+.img-sizing{
+    height: 70%;
+    width: 50%;
+}
+.fntawesomesize{
+    min-height: 100%;
+    width: 90%;
+}

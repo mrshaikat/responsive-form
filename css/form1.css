@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-img{
+    width: 100%;
+    height: 635px;
+    background-image: url(../img/lock%20image.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+    position: relative;
+    
+    
+    
+    
+    
+}
+.oracity{
+     width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    position: absolute;
+    background-color: black;
+}
+.heightt-size{
+    width: 100%;
+    min-height: 545px;
+}
+.form-sizeing{
+    width: 60%;
+    
+    margin: 0 auto;
+}
+
+.text-design{
+    color: white;
+    font-family: Times New Roman
+Georgia;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
